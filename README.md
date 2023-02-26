@@ -7,4 +7,4 @@ current location first.
 
 You have to replace the value of the "APIKey" key inside the **Keys.plist** file with your own API key from OpenWeather in order to successfully run the app.
 
-This app was initiated by **Dr. Angela Yu** from the London App Brewery.
+*This app was initiated by **Dr. Angela Yu** from the London App Brewery.*
