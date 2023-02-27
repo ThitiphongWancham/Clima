@@ -64,7 +64,7 @@ class WeatherViewController: UIViewController {
             do {
                 keys = try NSDictionary(contentsOf: url, error: ())
             } catch {
-                print("You have to create Keys.plist with your API key.")
+                print(error.localizedDescription)
             }
         }
         // Use the value to update the request URL
